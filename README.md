@@ -1,2 +1,2 @@
 # chim
-Uni project, a really simple cache simulator
+Uni project, a really simple cache simulator. You really shouldn't use this for anything serious. But if you're curious then feel free to mess around. You'll need love2d (<https://love2d.org/wiki/License>) and middleclass.lua (<https://github.com/kikito/middleclass/blob/master/MIT-LICENSE.txt>). Both will be included in the (most likely only and not very user friendly) release.
